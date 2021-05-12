@@ -1,0 +1,43 @@
+body{
+    margin:5px 15px;
+}
+
+.card
+{
+    margin: 10px 0px;
+}
+
+.card-header
+{
+    text-align: center;
+}
+
+.card-body
+{
+    background-image: linear-gradient(to right, #b9b5ac , #454c4c);    
+}
+
+img
+{
+    height: 120px;width:180px;
+    text-align: center;
+    display: block;
+    margin:auto;
+}
+
+.region-div,.capital-div,.countrycode-div
+{
+    color:white;
+    text-align: center;
+}
+
+.button-div
+{
+    border-radius:5px;
+    border: white solid 1px;
+    text-align: center;
+    display: block;
+    margin:auto; 
+    width:200px;
+    background-image: linear-gradient(to right, #b9b5ac , #454c4c);  
+}
